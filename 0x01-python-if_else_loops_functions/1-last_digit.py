@@ -8,4 +8,4 @@ elif (last_digit == 0):
     result = "0"
 else:
     result = "less than 6 and not 0"
-print("Last digit of %s is %s and is %s" %(number, last_digit, result))
+ print("Last digit of %s is %s and is %s" %(number, last_digit, result))
